@@ -78,4 +78,4 @@ streamlit run app.py
 MIT License
 
 ---
-Ссылка на приложение: [Temperature Analysis App](ваша-ссылка-на-streamlit-cloud)
+Ссылка на приложение: https://github.com/sidorov-ka/python_hw1_streamlit?tab=readme-ov-file
