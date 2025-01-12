@@ -78,4 +78,4 @@ streamlit run app.py
 MIT License
 
 ---
-Ссылка на приложение: https://github.com/sidorov-ka/python_hw1_streamlit?tab=readme-ov-file
+Ссылка на приложение: https://pythonhw1app-gdlcxljrfcgpjytyyd2c9t.streamlit.app
